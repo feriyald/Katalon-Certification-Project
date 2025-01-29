@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description></description>
    <name>Login Fail</name>
-   <tag></tag>
+   <tag>Test_Case_1</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>374a28b0-456c-42f0-9982-aea2e4ea60aa</testCaseGuid>

@@ -25,7 +25,6 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://shopee.co.id/')
 
-
 WebUI.setText(findTestObject('Object Repository/Page_Login sekarang untuk mulai berbelanja _a6a865/input_Log in dengan QR_loginKey'), 
     'feriyaldy@@@@')
 
@@ -43,4 +42,6 @@ WebUI.click(findTestObject('Object Repository/Page_Login sekarang untuk mulai be
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Login sekarang untuk mulai berbelanja _a6a865/div_Gagal log in, mohon coba lagi nanti ata_5985bd'), 
     0)
+
+WebUI.closeBrowser()
 
