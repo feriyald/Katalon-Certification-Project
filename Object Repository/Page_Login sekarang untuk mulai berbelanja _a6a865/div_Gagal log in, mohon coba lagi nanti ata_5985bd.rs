@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Gagal log in, mohon coba lagi nanti ata_5985bd</name>
+   <tag></tag>
+   <elementGuidId>99de31e2-f60d-43df-b43f-5c0d9202894e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.HyEuQL</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div[2]/div/div/div/div/div/div[2]/div/div[2]/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Gagal log in, mohon coba lagi nanti atau silakan log in dengan metode yang lain&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fb6feb52-b4fd-48ca-8420-e8102b5daea3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>HyEuQL</value>
+      <webElementGuid>fbc00b0d-5a03-4c13-9516-320384c12df2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gagal log in, mohon coba lagi nanti atau silakan log in dengan metode yang lain</value>
+      <webElementGuid>00f56156-07b6-42bb-93a3-c8723fb01a07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[1]/div[@class=&quot;t5pFIU&quot;]/div[@class=&quot;kr8eST&quot;]/div[@class=&quot;r0dQ_c&quot;]/div[1]/div[@class=&quot;UCVQlJ KeDAsM&quot;]/div[@class=&quot;WMXxSA&quot;]/div[2]/div[@class=&quot;VAy83y mylGx2&quot;]/div[@class=&quot;iXeFvH&quot;]/div[@class=&quot;wS7x9S dHh7rW WpuxL5&quot;]/div[2]/div[@class=&quot;HyEuQL&quot;]</value>
+      <webElementGuid>6d34e63f-e05b-4b76-bc0e-da4ce256d18e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div[2]/div/div/div/div/div/div[2]/div/div[2]/div/div[2]/div</value>
+      <webElementGuid>b54654d6-c571-4600-a94f-766e978c5fb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in dengan QR'])[1]/following::div[5]</value>
+      <webElementGuid>e1243ce9-38a1-4c76-bc30-617d04cefd5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[2]/following::div[7]</value>
+      <webElementGuid>617fedaa-a28b-4714-9202-d7fd8fc2fd4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[3]/preceding::div[7]</value>
+      <webElementGuid>670e9e5c-6d3c-471f-810a-028d8f54ee85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa Password'])[1]/preceding::div[7]</value>
+      <webElementGuid>d6dfe288-ab2a-4a35-9910-7bb8579adf95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Gagal log in, mohon coba lagi nanti atau silakan log in dengan metode yang lain']/parent::*</value>
+      <webElementGuid>cfd846fb-8661-4ea8-a415-7c6971e6843b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div[2]/div</value>
+      <webElementGuid>3f2ff8da-f2cc-4799-a578-52f6d6ea1bed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Gagal log in, mohon coba lagi nanti atau silakan log in dengan metode yang lain' or . = 'Gagal log in, mohon coba lagi nanti atau silakan log in dengan metode yang lain')]</value>
+      <webElementGuid>78ac74f8-2205-45be-8c0c-25f5d442ca08</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
