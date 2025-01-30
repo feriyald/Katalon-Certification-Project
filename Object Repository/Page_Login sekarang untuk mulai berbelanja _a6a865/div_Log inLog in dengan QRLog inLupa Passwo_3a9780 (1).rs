@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Log inLog in dengan QRLog inLupa Passwo_3a9780 (1)</name>
+   <tag></tag>
+   <elementGuidId>5799c14c-e963-4cd6-a478-2394dbb7878b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.WMXxSA</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div[2]/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.WMXxSA</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7077d10a-e7d3-4a6c-8a92-46ded2f9215f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>WMXxSA</value>
+      <webElementGuid>bf3da590-5ee8-44a0-9b2c-4b4714f08ca8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log inLog in dengan QRLog inLupa PasswordatauFacebookGoogleBaru di Shopee? Daftar</value>
+      <webElementGuid>756db7b4-dddd-436a-864c-0bf1de5a8b67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[1]/div[@class=&quot;t5pFIU&quot;]/div[@class=&quot;kr8eST&quot;]/div[@class=&quot;r0dQ_c&quot;]/div[1]/div[@class=&quot;UCVQlJ KeDAsM&quot;]/div[@class=&quot;WMXxSA&quot;]</value>
+      <webElementGuid>b5af652e-a1c6-475d-97b6-082e06963f42</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>2d09dc34-d522-4373-a5f1-42d05f3511f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Butuh bantuan?'])[1]/following::div[3]</value>
+      <webElementGuid>ea3b0633-a9e2-4e41-a4c7-73fcb2acd46e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[1]/following::div[3]</value>
+      <webElementGuid>0ca1a977-f3d2-466e-8916-401bbae0fa3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div</value>
+      <webElementGuid>d51f46d9-1c91-490c-af67-e88b10fb050d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Log inLog in dengan QRLog inLupa PasswordatauFacebookGoogleBaru di Shopee? Daftar' or . = 'Log inLog in dengan QRLog inLupa PasswordatauFacebookGoogleBaru di Shopee? Daftar')]</value>
+      <webElementGuid>8c342d05-0a8c-497a-be59-dca6bc3aee44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

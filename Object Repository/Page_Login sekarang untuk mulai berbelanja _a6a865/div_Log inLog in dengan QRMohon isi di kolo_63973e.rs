@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Log inLog in dengan QRMohon isi di kolo_63973e</name>
+   <tag></tag>
+   <elementGuidId>1b2eb22b-2e6f-4f50-b36c-67b4c43bdda4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.WMXxSA</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div[2]/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.WMXxSA</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d2e7ea6d-2b72-446a-9c6c-25371430e54d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>WMXxSA</value>
+      <webElementGuid>f9d46b13-be9c-4507-a007-404761ab4d66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log inLog in dengan QRMohon isi di kolom berikutLog inLupa PasswordatauFacebookGoogleBaru di Shopee? Daftar</value>
+      <webElementGuid>aea2be46-263e-4829-a75e-309cdb046db8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[1]/div[@class=&quot;t5pFIU&quot;]/div[@class=&quot;kr8eST&quot;]/div[@class=&quot;r0dQ_c&quot;]/div[1]/div[@class=&quot;UCVQlJ KeDAsM&quot;]/div[@class=&quot;WMXxSA&quot;]</value>
+      <webElementGuid>13e0a3d1-f087-4a01-9fc8-82c77ffb157d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>af80f92c-cb9b-40cd-86da-57a1f3cb782e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Butuh bantuan?'])[1]/following::div[3]</value>
+      <webElementGuid>1ed1276c-74a9-4b1d-b2d1-fde78ca9877f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[1]/following::div[3]</value>
+      <webElementGuid>42abced3-d9e9-44c8-a2fa-403767d03192</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div</value>
+      <webElementGuid>b642e52b-34db-4a6a-a386-f8cfa0ef22ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Log inLog in dengan QRMohon isi di kolom berikutLog inLupa PasswordatauFacebookGoogleBaru di Shopee? Daftar' or . = 'Log inLog in dengan QRMohon isi di kolom berikutLog inLupa PasswordatauFacebookGoogleBaru di Shopee? Daftar')]</value>
+      <webElementGuid>fbeed07e-8c21-4723-8fd8-876d12e8c411</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

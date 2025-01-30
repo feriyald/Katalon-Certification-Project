@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login Tokopedia Dengan Nomor HP yang Tidak Terdaftar</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>843ec116-be0a-442b-a03b-e97ba2e440c9</testCaseGuid>
+</TestCaseEntity>
